@@ -1,0 +1,135 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-328,
+				55
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-404,
+				61
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-282,
+				55
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-315,
+				55
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-282,
+				49
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-282,
+				53
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "hot chip",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-101,
+				70
+			],
+			"anim": "horn",
+			"fps": 24,
+			"name": "horny",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-316,
+				57
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "papi",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-321,
+				57
+			],
+			"anim": "papi",
+			"fps": 24,
+			"name": "papi",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-319,
+				53
+			],
+			"anim": "stop",
+			"fps": 24,
+			"name": "ew",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/jazzBed",
+	"position": [
+		-450,
+		390
+	],
+	"healthicon": "jazzbed",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		155,
+		255
+	],
+	"camera_position": [
+		10,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 2.5,
+	"_editor_isPlayer": false
+}

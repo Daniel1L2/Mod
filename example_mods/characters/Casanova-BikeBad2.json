@@ -1,0 +1,146 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-146,
+				224
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-173,
+				246
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-199,
+				226
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-178,
+				227
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-174,
+				211
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				92,
+				349
+			],
+			"anim": "death",
+			"fps": 24,
+			"name": "fallOff",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				237
+			],
+			"anim": "shoot",
+			"fps": 24,
+			"name": "blammed",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-108,
+				462
+			],
+			"anim": "yeah",
+			"fps": 24,
+			"name": "yeahh",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-130,
+				99
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "firstDeath"
+		},
+		{
+			"offsets": [
+				-114,
+				167
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "deadConfirm"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-180,
+				95
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "deadLoop",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Cassy_Bike2",
+	"position": [
+		-180,
+		270
+	],
+	"healthicon": "novabike2",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		176,
+		255
+	],
+	"camera_position": [
+		490,
+		-438
+	],
+	"sing_duration": 4,
+	"scale": 3,
+	"_editor_isPlayer": true
+}

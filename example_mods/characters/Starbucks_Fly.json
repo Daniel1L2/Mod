@@ -1,0 +1,113 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-1,
+				-137
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				14,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shot",
+			"indices": [],
+			"name": "hurt"
+		},
+		{
+			"offsets": [
+				-32,
+				-96
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-40,
+				-140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				51,
+				-48
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-44,
+				-107
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-21,
+				-105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "laugh"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				-19
+			],
+			"anim": "death",
+			"fps": 24,
+			"name": "dead",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/noPumpkinSpice",
+	"position": [
+		190,
+		-200
+	],
+	"healthicon": "stephbike",
+	"flip_x": false,
+	"healthbar_colors": [
+		102,
+		0,
+		51
+	],
+	"camera_position": [
+		-320,
+		-130
+	],
+	"sing_duration": 4,
+	"scale": 1.5,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,36 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-220,
+				-35
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "soWeak",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/neko2",
+	"position": [
+		-120,
+		370
+	],
+	"healthicon": "lia",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		204,
+		173
+	],
+	"camera_position": [
+		80,
+		-70
+	],
+	"sing_duration": 4,
+	"scale": 2.5,
+	"_editor_isPlayer": false
+}
